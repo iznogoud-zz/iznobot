@@ -7,7 +7,7 @@ import time
 
 # random.seed()
 
-DAY_IN_SECONDS = 2  # 24 * 60 * 60
+DAY_IN_SECONDS = 24 * 60 * 60
 
 
 def get_topics(topics_file):

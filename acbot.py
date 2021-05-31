@@ -64,4 +64,4 @@ def create_ac_bot():
     def acbot():
         return render_template("submissions.html", my_list=check_submissions())
 
-    return ap
+    return app
